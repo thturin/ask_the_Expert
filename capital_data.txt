@@ -1,0 +1,10 @@
+Afghanistan	Kabul	34.51666667	69.183333	AF	Asia
+Aland Islands	Mariehamn	60.116667	19.9	AX	Europe
+Albania	Tirana	41.31666667	19.816667	AL	Europe
+Algeria	Algiers	36.75	3.05	DZ	Africa
+American Samoa	Pago Pago	-14.26666667	-170.7	AS	Australia
+Andorra	Andorra la Vella	42.5	1.516667	AD	Europe
+Angola	Luanda	-8.833333333	13.216667	AO	Africa
+Anguilla	The Valley	18.21666667	-63.05	AI	North America
+Antarctica	N/A	0	0	AQ	Antarctica
+Antigua and Barbuda	Saint John’s	17.11666667	-61.85	AG	North America
